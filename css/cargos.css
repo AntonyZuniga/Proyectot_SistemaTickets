@@ -1,0 +1,31 @@
+table {
+    width: 100%;
+    border: 1px solid;
+  }
+
+  .content {
+    margin: 2px;
+    padding: 2px;
+	float: left;
+}
+ 
+.content img {
+	display:list-item;
+}
+
+.con_estilos_reporte {
+    width: 100%;
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid rgb(83, 83, 92);
+    height: 45px;
+    background-color:rgb(254, 255, 255);
+    border-radius: 5px;
+    }
+
+  #ausoporte2{
+      place-items: center;
+      justify-content: center;
+      width:80% ;
+      margin: auto;
+  }

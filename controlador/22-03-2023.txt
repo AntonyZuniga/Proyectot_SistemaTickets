@@ -1,0 +1,20 @@
+                                         
+Juan, 0, 4, 4                                            
+                                         
+Pedro Mejorado, 1, 15, 16                                            
+                                         
+Jesus Gerardino, 1, 32, 33                                            
+                                         
+Cruz Alfonso, 0, 56, 56                                            
+                                         
+Gerardo Reyna, 0, 48, 48                                            
+                                         
+Jacob Barajas, 0, 14, 14                                            
+                                         
+Gerardo de la Cruz, 2, 48, 50                                            
+                                         
+Brenda García, 0, 68, 68                                            
+                                         
+Joel Gutierrez, 0, 47, 47                                            
+                                                                                
+                                        

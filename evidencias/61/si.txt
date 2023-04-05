@@ -1,0 +1,3 @@
+centrar la tabla y pero con ancho de width listo
+
+hacer que el archivo se vea el nombre en lugar de la imagen y que se pueda descargar o ver

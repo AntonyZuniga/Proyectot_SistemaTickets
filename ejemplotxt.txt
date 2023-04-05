@@ -1,0 +1,18 @@
+Gerardo Reyna, 5, 5, 10
+Joel Gutierre, 5, 5, 10
+Gerardo de la Cruz, 5, 5, 10
+Brenda García, 5, 5, 10
+Jesus Geraldino, 5, 5, 10
+
+consulta
+select id_asignado_a, id_estatus from reportes group by id_asignado_a, id_estatus
+
+consulta de totales
+select id_asignado_a, count(id_estatus) as total from reportes group by id_asignado_a
+
+
+posible
+select id_asignado_a, count(id_estatus) as total,
+(SELECT COUNT(id_estatus) from reportes where id_estatus != 9) as Abiertos,
+(select Count(id_estatus) from reportes where id_estatus = 9) as Cerrados
+from reportes group by id_asignado_a
